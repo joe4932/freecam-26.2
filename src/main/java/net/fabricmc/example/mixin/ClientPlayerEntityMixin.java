@@ -1,4 +1,4 @@
-package com.example.freecam.mixin;
+package net.fabricmc.example.mixin;
 
 import com.example.freecam.FreecamMod;
 import net.minecraft.client.network.ClientPlayerEntity;
