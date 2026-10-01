@@ -1,4 +1,4 @@
-package com.example.freecam;
+package net.fabricmc.example;
 
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
