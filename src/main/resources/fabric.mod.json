@@ -18,10 +18,12 @@
 		"main": [
 			"com.example.ExampleMod"
 		],
-		"client": [
-			"com.example.client.ExampleModClient"
-		]
-	},
+	  "entrypoints": {
+    "client": [
+      "net.fabricmc.example.FreecamMod"
+    ]
+  },
+
 	"mixins": [
 		"modid.mixins.json",
 		{
